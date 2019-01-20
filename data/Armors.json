@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"風属性　耐性20％　土属性　弱点20％\n俊敏　10％上昇","etypeId":2,"traits":[{"code":11,"dataId":4,"value":0.8},{"code":11,"dataId":5,"value":1.2},{"code":21,"dataId":6,"value":1.1}],"iconIndex":0,"name":"エルフ","note":"","params":[0,0,0,0,0,0,2,0],"price":300}
+]
