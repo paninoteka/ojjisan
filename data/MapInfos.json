@@ -1,6 +1,4 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":534,"scrollY":370},
-{"id":2,"expanded":false,"name":"こうえんステージ","order":2,"parentId":1,"scrollX":534,"scrollY":318},
-{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":1,"scrollX":530,"scrollY":328}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":534,"scrollY":510}
 ]
