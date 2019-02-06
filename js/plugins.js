@@ -8,6 +8,6 @@ var $plugins =
 {"name":"TkoolMV_PluginCommandBook","status":true,"description":"プラグインコマンド集","parameters":{"制御文字の拡張":"いいえ","スクリプトに制御文字適用":"いいえ"}},
 {"name":"WindowResize","status":true,"description":"ゲーム起動時のウィンドウサイズを変更します。","parameters":{"width":"624","height":"916"}},
 {"name":"Yami_SkipTitle","status":true,"description":"Skip the title scene for testing purpose.","parameters":{}},
-{"name":"Trb_LoadingAnimation","status":true,"description":"ローディング画面をアニメーションさせるプラグイン","parameters":{"コマ数":"3","再生速度":"10","x":"","y":""}},
+{"name":"Trb_LoadingAnimation","status":true,"description":"ローディング画面をアニメーションさせるプラグイン","parameters":{"コマ数":"3","再生速度":"10","x":"65","y":"324"}},
 {"name":"MoviePicture","status":true,"description":"MovieInScreenPlugin","parameters":{"MovieVolumeType":"none"}}
 ];
